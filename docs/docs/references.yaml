@@ -1,0 +1,28 @@
+project-templates:
+  - https://github.com/Innei/pnpm-workspace-monorepo.git
+  - https://github.com/rhyek/typescript-monorepo-example
+  - https://github.com/CryogenicPlanet/typescript-monorepo-example
+  - https://github.com/panoply/mithril-pnpm
+  - https://github.com/hiliyongke/vue3-boilerplate
+  - https://github.com/spa5k/monorepo-typescript-rust
+  - https://github.com/alejandronanez/turborepo-nextjs-starter
+  - https://github.com/jzfai/package-develop-template
+  - https://github.com/pdsuwwz/mono-repo-example
+  - https://github.com/moudev/differenzo
+  - https://github.com/betterRunner/ts-monorepo-starter
+  - https://github.com/mysteryven/ts-react-lib-starter
+  - https://github.com/NiGhTTraX/ts-monorepo
+  - https://github.com/sachinraja/ts-lib-starter.git
+  - https://github.com/openwebstacks/ts-starter.git
+  - https://github.com/remirror/template.git
+
+build:
+  - https://github.com/egoist/tsup
+
+
+nextjs-showcase:
+  - https://github.com/perkinsjr/my-developer-site-template.git
+  - https://github.com/m1guelpf/mirror-next.git
+
+website:
+  - https://flowbite.com/
