@@ -9,12 +9,14 @@
     "dev": "turbo run dev",
     "start": "turbo run start",
     "lint": "turbo run lint",
-    "clean": "turbo run clean"
+    "clean": "turbo run clean",
+    "dev:mj":"pnpm --prefix tutorials/master-nextjs dev"
   },
   "devDependencies": {
     "eslint": "^8.28.0",
     "eslint-config-turbo": "latest",
-    "turbo": "latest"
+    "turbo": "latest",
+    "typescript": "^4.9.5"
   },
-  "packageManager": "pnpm@7.26.0"
+  "packageManager": "pnpm@2.7.2"
 }
